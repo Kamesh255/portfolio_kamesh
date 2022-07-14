@@ -12,6 +12,8 @@ export const Navbar = () => {
     
     const [showMediaIcons, setShowMediaIcons] = useState(false)
    
+
+    
     return (
     <>
      <nav className='main-nav'>
