@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background: -webkit-linear-gradient(#eee, rgb(241, 197, 181));
+}
+body{
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat; background-size: cover;
+  font-family: 'Newsreader', serif;
+  line-height: 1.4;
 }
 
 .App-logo {
