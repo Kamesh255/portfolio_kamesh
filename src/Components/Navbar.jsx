@@ -10,10 +10,8 @@ export const Navbar = () => {
         window.open("https://drive.google.com/file/d/1fWzzldU_fvgveMzyzd-KlG-M7zQBnGu1/view?usp=sharing","_blank")
     }
     
-    const [showMediaIcons, setShowMediaIcons] = useState(false)
-   
+    const [showMediaIcons, setShowMediaIcons] = useState(false) 
 
-    
     return (
     <>
      <nav className='main-nav'>
