@@ -8,8 +8,7 @@ import {Link} from "react-scroll"
 export const Navbar = () => {
     const resume = () => {
         window.open("https://drive.google.com/file/d/1fWzzldU_fvgveMzyzd-KlG-M7zQBnGu1/view?usp=sharing","_blank")
-    }
-    
+    } 
     const [showMediaIcons, setShowMediaIcons] = useState(false) 
 
     return (
